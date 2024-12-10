@@ -1,0 +1,8 @@
+prefix=/home/nvidia/catkin_ws/devel
+
+Name: laserscan_merger
+Description: Description of laserscan_merger
+Version: 1.0.4
+Cflags: -I/home/nvidia/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

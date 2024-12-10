@@ -1,0 +1,2 @@
+set(bodyreader_MESSAGE_FILES "/home/nvidia/catkin_ws/src/bodyreader/msg/bodyposture.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/vector2f.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/vector3f.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/joint.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/body.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/bodyList.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/maskdata.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/lockedmask_w_h.msg;/home/nvidia/catkin_ws/src/bodyreader/msg/locked_char_rgb.msg")
+set(bodyreader_SERVICE_FILES "")
